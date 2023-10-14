@@ -1,2 +1,3 @@
 n=int(input())
-print(bin(n))
+r=bin(n)
+print(r[2:])
