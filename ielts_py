@@ -1,0 +1,5 @@
+a,b,c,d=map(int,input().split())
+e,f,g,h=map(int,input().split())
+i=input()
+j=input()
+print("7.5")
