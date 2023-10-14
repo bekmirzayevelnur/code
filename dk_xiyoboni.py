@@ -1,5 +1,5 @@
 a=int(input())
 if a%4==0:
-    print("YES")
+    print("Yes")
 else:
-    print("NO")
+    print("No")
