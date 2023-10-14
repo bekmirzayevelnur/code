@@ -1,0 +1,1 @@
+print('pratik','geeksforgeks',sep="@")
