@@ -1,0 +1,10 @@
+a=int(input())
+b=list(map(int,input().split()))
+c=[]
+v=c.append(max(b))
+b.remove(max(b))
+k=c.append(max(b))
+b.remove(max(b))
+l=c.append(max(b))
+b.remove(max(b))
+print(*c)
