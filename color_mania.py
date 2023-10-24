@@ -1,8 +1,5 @@
-a = input()  
-if len(a) > 0:  
-    if a[0] == a[-1]:   
-        print("Lose")  
-    else:
-        print("Win") 
+a=input()
+if a.count("R")==a.count("B"):
+  print("Win")
 else:
-    print("Lose") 
+  print("Lose")
