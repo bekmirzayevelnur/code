@@ -1,0 +1,5 @@
+n=int(input())
+ar=list(map(int,input().split()))
+k=int(input())
+ar.sort()
+print(ar[k-1])
